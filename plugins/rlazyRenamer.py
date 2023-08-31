@@ -29,7 +29,7 @@ permission of LazyDeveloperr
     # Thank you LazyDeveloper for helping us in this Journey
     # 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
 
-    # for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
+    # for any error please contact me -> telegram@blank_blankx or insta @LazyDeveloperr 
 
 import asyncio
 from asyncio import sleep
