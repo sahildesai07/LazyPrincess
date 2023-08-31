@@ -3,9 +3,9 @@
     # Born to make history @LazyDeveloper !
 
     # Thank you LazyDeveloper for helping us in this Journey
-    # 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
+    # 🥰  Thank you for giving me credit @Blank_blankX  🥰
 
-    # for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
+    # for any error please contact me -> telegram@Blank_blankX or insta @ultroid_official_ 
 
 
 # import telegram
@@ -65,9 +65,9 @@
 # Please Don't remove credit.
 # Born to make history @LazyDeveloper !
 # Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+# 🥰  Thank you for giving me credit @Blank_blankX  🥰
+# for any error please contact me -> telegram@Blank_blankX or insta @LazyDeveloperr 
+# rip paid developers 🤣 - >> No need to buy paid source code while @Blank_blankX is here 😍😍
 
 
 
